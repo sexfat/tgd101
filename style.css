@@ -2,3 +2,8 @@ body {
    background-color: rgb(255, 50, 50);
 
 }
+
+.wrapper{
+ max-width: 1200px;
+ margin: 0 auto;
+} 
